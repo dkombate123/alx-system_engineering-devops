@@ -1,2 +1,2 @@
 #!/bin/bash
-touch test ; echo "Best School" > test
+touch '*\*'\''"Best School"\'\*\*$?*****:)  ; echo "Best School" <  '*\*'\''"Best School"\'\*\*$?*****:)'
